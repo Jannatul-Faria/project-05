@@ -1,0 +1,32 @@
+{
+    "admin@gmail.com": {
+        "username": "admin",
+        "password": "1234admin",
+        "role": "admin"
+    },
+    "faria@gmail.com": {
+        "username": "faria",
+        "password": "7556",
+        "role": "manager"
+    },
+    "nodi@gmail.com": {
+        "username": "nodi",
+        "password": "1456",
+        "role": "user"
+    },
+    "asika@gmail.com": {
+        "username": "asika",
+        "password": "5789",
+        "role": "user"
+    },
+    "kairasana8@gmail.com": {
+        "username": "JannatulFaria",
+        "password": "963852",
+        "role": ""
+    },
+    "farhana6@gmail.com": {
+        "username": "JannatulFaria",
+        "password": "789456",
+        "role": "user"
+    }
+}
